@@ -39,6 +39,7 @@ if (!username) {
     // =============================
 
     loadProfile();
+    loadHistory();
 }
 
 
